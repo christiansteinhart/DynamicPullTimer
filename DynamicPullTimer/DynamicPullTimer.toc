@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: Dynamic Pull Timer
+## Notes: Easily adjustable pull timer.
+## SavedVariables: DynamicPullTimerDB
+##
+embeds.xml
+
+DynamicPullTimer.lua
